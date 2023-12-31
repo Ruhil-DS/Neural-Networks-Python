@@ -1,3 +1,4 @@
 .ipynb*
 .ipynb*/
 lecture_notes/
+ignored_in_git/
