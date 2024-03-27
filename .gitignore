@@ -2,3 +2,7 @@
 .ipynb*/
 lecture_notes/
 ignored_in_git/
+.open*
+.geminiAPI
+LLM/*
+./LLM/
