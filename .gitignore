@@ -6,3 +6,6 @@ ignored_in_git/
 .geminiAPI
 LLM/*
 ./LLM/
+App_dev_LLM/*
+./App_dev_LLM/
+App_dev_LLM/
